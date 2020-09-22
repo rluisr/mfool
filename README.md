@@ -2,6 +2,8 @@ mfool
 =====
 Check the status of hosts, monitors and channels for forgot to enable again on Mackerel.
 
+![](https://f.easyuploader.app/eu-prd/upload/20200922222908_39777a6f3849434a5579.png)
+
 Prepare
 -------
 You need these variables.
